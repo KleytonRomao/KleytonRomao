@@ -1,10 +1,12 @@
-<h1 align="center">Oi 🖖, eu sou Kleyton</h1>
-<h3 align="center">Um desenvolvedor backend.</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KleytonRomao&show_icons=true&locale=en" alt="KleytonRomao" />
-</p>
+# Olá 👋, eu sou Kleyton
+
+Desenvolvedor backend com foco em C, C++, e Python. Busco construir sistemas robustos e escaláveis. Atualmente trabalhando em projetos open-source e aprendendo novas tecnologias.
+
+## 🚀 Minhas Tecnologias:
+
+- Backend: C, C++, Python
+- Versionamento: Git, GitHub
+
+## 📈 Minhas Estatísticas:
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=KleytonRomao&show_icons=true&theme=dark)
